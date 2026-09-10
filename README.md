@@ -112,7 +112,7 @@ The generated results are compared with the original hazy inputs and the corresp
 
 ---
 
-## Gradio UI
+## Gradio UI :https://fb8f2f6af92f1c77b5.gradio.live
 
 A simple **Gradio** interface was created to make the trained model easier to test.
 
