@@ -175,5 +175,4 @@ It also provided hands-on experience with:
 ```
 
 
-**ملاحظة صغيرة:** أنا متعمد ما أضيفش حاجات زي `Autoencoders` في الـREADME بتاع المشروع، لأن ده مشروع **Pix2Pix** تحديدًا، فالأفضل الـREADME يركز على اللي اتعمل فعلًا فيه. وكمان لو عندك صور للـresults أو Screenshot للـGradio UI، إضافتهم للـREADME هتخليه أقوى بصريًا جدًا.
-```
+
